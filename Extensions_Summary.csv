@@ -1,0 +1,10 @@
+Name,Version,Size (MB),Enabled,Permissions,Site Access,Source,Why Suspicious / Notes,Action Taken
+Chrome Remote Desktop,2.1,<1,Yes,Manage your downloads; Communicate with cooperating native applications,No additional site access,Chrome Web Store,Legit Google extension used for remote access. Safe.,Kept
+AI Google Form Builder,1.4,68.3,Yes,No special permissions,No additional site access,Chrome Web Store,Third-party AI extension; low permissions but verify publisher before use.,Kept (Monitored)
+Google Docs Offline,1.97.1,<1,Yes,"Read/change data on docs.google.com, drive.google.com",Limited to Google Docs/Drive,Installed by default,Official Google extension. Safe.,Kept
+Google Meet Enhanced Experience,4.0.0,7.5,Yes,Read/change data on meet.google.com,meet.google.com only,Chrome Web Store,Third-party enhancement for Google Meet; verify store legitimacy.,Kept (Safe)
+Google Translate,2.0.16,7.7,Yes,Read and change all your data on websites,All sites,Chrome Web Store,Official Google extension; broad permissions but trusted publisher.,Kept
+Norton Safe Search,3.24.0.5,5.0,No,Read browsing history; Block content; Change search settings,All sites,Chrome Web Store,Legitimate security extension; disabled since not actively needed.,Disabled
+Swiggy Zomato Spendings Calculator,1.0.4,1.1,Yes,Read browsing history,"swiggy.com, zomato.com",Chrome Web Store,Non-official; narrow permissions but niche purpose. Monitor for privacy risks.,Kept (Monitored)
+AdBlock — block ads across the web,6.30.1,318,Yes,Read and change all your data on all websites; Display notifications,All sites,Chrome Web Store,Popular ad-blocker; safe if from AdBlock Inc. Check clone risk.,Kept
+ChatGPT Search,1.11,<1,No,Change search settings to chatgpt.com,chatgpt.com only,Chrome Web Store,Custom search engine; disabled to avoid hijack-like behavior.,Disabled
