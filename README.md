@@ -14,7 +14,7 @@ To perform a comprehensive security analysis of all installed Chrome extensions,
 ### 1. Extension Enumeration
 - Opened `chrome://extensions/` and listed all installed extensions.  
 - Captured screenshots of each extension’s info page (name, version, permissions, and site access).  
-- Saved all screenshots in the `evidence/` folder.
+- Saved all screenshots in the folder.
 
 ### 2. Extension Permission Review
 - Reviewed each extension’s declared permissions and site access.  
@@ -26,7 +26,7 @@ To perform a comprehensive security analysis of all installed Chrome extensions,
 
 ### 3. Risk Assessment
 - Extensions from trusted publishers (Google, Norton, AdBlock Inc.) were marked safe.  
-- Third-party or niche tools were flagged for monitoring.  
+- Third-party or niche tools were flagged for monitoring or removed.  
 - Any extension with potential to modify search or access browsing data unnecessarily was disabled.
 
 ### 4. Mitigation & Verification
@@ -50,8 +50,8 @@ To perform a comprehensive security analysis of all installed Chrome extensions,
 
 ## Observations
 - Most extensions are verified and safe, originating from official or reputable sources.  
-- Two third-party extensions (`AI Google Form Builder`, `Swiggy Zomato Spendings Calculator`) need ongoing monitoring.  
-- Potential risk found: “ChatGPT Search” — disabled due to search redirection.  
+- Two third-party extensions (`AI Google Form Builder`, `Swiggy Zomato Spendings Calculator`) were removed.  
+- Potential risk found: “ChatGPT Search” — removed due to search redirection.  
 - No evidence of adware, credential theft, or network interception detected.
 
 ## Security Recommendations
